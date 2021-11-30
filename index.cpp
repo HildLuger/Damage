@@ -10,7 +10,7 @@ int main()
     scanf("%d", &strength);
     printf("Imput your weapon damage:");
     scanf("%d", &weapon);
-    printf("Your total damage is: %d", strength + weapon);
+    printf("\n Your total damage is: %d", strength + weapon);
     printf("\n\nType \"yes\" to exit the program:");
     scanf("%d", &yes);
     return 0;
